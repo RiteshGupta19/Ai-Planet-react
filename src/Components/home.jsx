@@ -171,7 +171,7 @@ export default function Home() {
                 <EventCard key={event.id} event={event} />
               ))
             ) : (
-              <div className='text-center text-white'>No challenges found</div>
+              <div className='text-center text-white display-5 fw-bold ps-5 '>No challenges found</div>
             )}
           </Grid>
         </div>
