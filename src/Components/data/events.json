@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "status": "Upcoming",
+    "level":"Easy",
+    "title": "Data Science Bootcamp - Graded Datathon",
+    "image": "/assets/cardimage/Group 1000002466.png",
+    "timeLeft": { "days": 0, "hours": 22, "minutes": 22 },
+    "buttonText": "Participate Now"
+  },
+  {
+    "id": 2,
+    "status": "Upcoming",
+    "level":"Medium",
+    "title": "Data Sprint 72 - Butterfly Identification",
+    "image": "/assets/cardimage/Group 1000002766.png",
+    "timeLeft": { "days": 0, "hours": 12, "minutes": 34 },
+    "buttonText": "Participate Now"
+  },
+  {
+    "id": 3,
+    "status": "Active",
+    "level":"Hard",
+    "title": "Data Sprint 71 - Weather Recognition",
+    "image": "/assets/cardimage/Group 1000002767.png",
+    "timeLeft": { "days": 1, "hours": 17, "minutes": 10 },
+    "buttonText": "Participate Now"
+  },
+  {
+    "id": 4,
+    "status": "Active",
+    "level":"Easy",
+    "title": "Data Sprint 70 - Airline Passenger Satisfaction",
+    "image": "/assets/cardimage/Group 1000002771.png",
+    "timeLeft": { "days": 0, "hours": 11, "minutes": 27 },
+    "buttonText": "Participate Now"
+  },
+  {
+    "id": 5,
+    "status": "Past",
+    "level":"Medium",
+    "title": "Engineering Graduates Employment Outcomes",
+    "image": "/assets/cardimage/Group 1000002772.png",
+    "endedOn": "16th May'22 09:00 PM",
+    "buttonText": "Participate Now"
+  },
+  {
+    "id": 6,
+    "status": "Past",
+    "level":"Hard",
+    "title": "Travel Insuranceee Claim Prediction",
+    "image": "/assets/cardimage/Group 1000002773.png",
+    "endedOn": "16th May'22 09:00 PM",
+    "buttonText": "Participate Now"
+  }
+]
