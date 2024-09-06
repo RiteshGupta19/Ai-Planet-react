@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ai-Planet-react/static/css/main.6fc12356.css",
+    "main.js": "/Ai-Planet-react/static/js/main.58813988.js",
+    "static/js/453.b593bf41.chunk.js": "/Ai-Planet-react/static/js/453.b593bf41.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Ai-Planet-react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Ai-Planet-react/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Ai-Planet-react/index.html",
+    "main.6fc12356.css.map": "/Ai-Planet-react/static/css/main.6fc12356.css.map",
+    "main.58813988.js.map": "/Ai-Planet-react/static/js/main.58813988.js.map",
+    "453.b593bf41.chunk.js.map": "/Ai-Planet-react/static/js/453.b593bf41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc12356.css",
+    "static/js/main.58813988.js"
+  ]
+}
